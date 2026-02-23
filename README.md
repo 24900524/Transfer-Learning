@@ -98,20 +98,20 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="675" height="260" alt="image" src="https://github.com/user-attachments/assets/c3830e3f-fbb3-4828-94cc-124ca82f2bd8" />
-<img width="953" height="731" alt="image" src="https://github.com/user-attachments/assets/3b234d8b-d2bc-4b28-ad9f-94b5e6a689fc" />
+<img width="693" height="262" alt="image" src="https://github.com/user-attachments/assets/6140be0b-c129-49f3-a7a0-c7bd76dacfa4" />
+<img width="904" height="735" alt="image" src="https://github.com/user-attachments/assets/d482d253-4c21-4ca3-8df2-5b06e0635a7f" />
 
 ### Classification Report
 
-<img width="687" height="247" alt="image" src="https://github.com/user-attachments/assets/e33035d9-877e-4321-9af0-cb8d58cbb8a2" />
+<img width="547" height="206" alt="image" src="https://github.com/user-attachments/assets/7c828850-8306-4d84-982b-88f6ee4c80ab" />
 
 ### Confusion Matrix
 
-<img width="874" height="756" alt="image" src="https://github.com/user-attachments/assets/e264ea60-4701-4e20-a6a9-48590557c31b" />
+<img width="826" height="752" alt="image" src="https://github.com/user-attachments/assets/b778ab29-8542-4c8e-9cd8-af8c4e692f7b" />
 
 ### New Sample Prediction
-<img width="549" height="509" alt="image" src="https://github.com/user-attachments/assets/236fb8b4-b617-4907-9732-5fc411028028" />
-<img width="542" height="510" alt="image" src="https://github.com/user-attachments/assets/1efb90fa-a3a7-46a1-b01b-c874bc308a3d" />
+<img width="519" height="499" alt="image" src="https://github.com/user-attachments/assets/22f9de10-8c6a-48a9-976c-7fcbf4b27fc2" />
+<img width="515" height="498" alt="image" src="https://github.com/user-attachments/assets/c616f84e-3cdc-4e72-ad22-93f15a0daac4" />
 
 ## RESULT
 The VGG-19 model was successfully trained and optimized to classify defected and non-defected capacitors.
